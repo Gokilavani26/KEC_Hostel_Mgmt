@@ -1,0 +1,2 @@
+# KEC_Hostel_Mgmt
+KEC CODING HACKATHON - 30HRS
